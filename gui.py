@@ -217,5 +217,3 @@ class ChessGUI:
                     self.game_frame.pack_forget()
                     self.homepage_frame.pack(fill=tk.BOTH, expand=True)
                 self.show_winner_animation(winner, after_animation)
-
-
