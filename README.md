@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chess AI (Pink Theme)
 
 A simple chess game with a pink-themed GUI, built using Python, Tkinter, and the `python-chess` library. Play as White or Black against an AI powered by the minimax algorithm with selectable difficulty levels.
@@ -69,10 +68,4 @@ python main.py
 
 - Make sure your `images/` folder and all image filenames are correct.
 - If you encounter errors about missing modules, ensure you installed all dependencies in the correct environment.
-
----
-
-Enjoy
-=======
-# Chess-AI
->>>>>>> 715294685bedfe032bce55913b85e6f32b307cd9
+s
